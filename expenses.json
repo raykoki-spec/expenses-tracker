@@ -1,0 +1,36 @@
+[
+  {
+    "amount": 300.0,
+    "category": "food",
+    "note": "lunch"
+  },
+  {
+    "amount": 1000.0,
+    "category": "fare",
+    "note": "roadtrip"
+  },
+  {
+    "amount": 100.0,
+    "category": "food",
+    "note": "bfast",
+    "date": "2026-09-30"
+  },
+  {
+    "amount": 300.0,
+    "category": "food",
+    "note": "lunch",
+    "date": "2026-09-30"
+  },
+  {
+    "amount": 500.0,
+    "category": "gift",
+    "note": "school book",
+    "date": "2026-09-30"
+  },
+  {
+    "amount": 250.0,
+    "category": "food",
+    "note": "bfast",
+    "spent_on": "2026-09-30"
+  }
+]
